@@ -5,3 +5,4 @@ Data structure practice problems
 3. [Delete nth Element from End of Linked List](QCodes/nthElementfromEnd.py)
 4. [Reverse Linked List](QCodes/reverseLinkedList.py)
 5. [Merge Two sorted Linked List](QCodes/mergeSortedList.py)
+6. [Palindrom Linked List using Stack](QCodes/paliandromLinkedListStack.py)
