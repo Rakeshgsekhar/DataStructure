@@ -10,3 +10,4 @@ Data structure practice problems
 8. [Convert Binary in Linked List to Integer](QCodes/binaryinLinkedListtoInteger.py)
 9. [Merge linked list in between Linked List](QCodes/mergeinBetween.py)
 10. [Next Greatest Node in Linked List](QCodes/nextGreaterNode.py)
+11. [Linked List Components](QCodes/linkedListComponents.py)
