@@ -11,3 +11,4 @@ Data structure practice problems
 9. [Merge linked list in between Linked List](QCodes/mergeinBetween.py)
 10. [Next Greatest Node in Linked List](QCodes/nextGreaterNode.py)
 11. [Linked List Components](QCodes/linkedListComponents.py)
+12. [Odd Even Linked List](QCodes/oddEvenLnkedList.py)
