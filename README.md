@@ -15,3 +15,5 @@ Data structure practice problems
 13. [Add Two Number Linked List](QCodes/addTwoNumbersLinkedList.py)
 14. [Flatten a Multilevel Doubly Linked List](QCodes/flatterdoublyLinkedList.py)
 15. [Front Middle Back Queue](QCodes/frontMiddleBackqueue.py)
+16. [Swap node in Pairs](QCodes/swapNodesInPair.py)
+17. [Sorted Linked List](QCodes/sortedLinkedList.py)
