@@ -17,3 +17,5 @@ Data structure practice problems
 15. [Front Middle Back Queue](QCodes/frontMiddleBackqueue.py)
 16. [Swap node in Pairs](QCodes/swapNodesInPair.py)
 17. [Sorted Linked List](QCodes/sortedLinkedList.py)
+18. [Partition List](QCodes/partitionList.py)
+19. [Remove Zero Sum Consecutive Nodes from Linked List](QCodes/removeZeroNodes.py)
